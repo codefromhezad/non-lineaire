@@ -14,10 +14,19 @@ h1, h2 {
 
 .title {
 	text-align: center;
+	background: #fff;
+	padding: 1px;
 }
 
 .title h1 {
 	font-size: 48px;
+	margin: 0;
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+
+.title .desc {
+	color: #888;
 }
 
 .container {
@@ -28,6 +37,9 @@ h1, h2 {
 
 .menu {
 	line-height: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+	background: #fff;
 }
 
 .menu a {
@@ -38,7 +50,7 @@ h1, h2 {
 }
 
 .menu a.active {
-	background: #fff;
+	font-weight: bold;
 	text-decoration: none;
 }
 

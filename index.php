@@ -30,6 +30,10 @@
 	<div class="container">
 		<div class="title">
 			<h1>Non-Linéaire</h1>
+
+			<p class="desc">
+				Une exploration des possibilités graphiques offertes par les systèmes non-linéaires. 
+			</p>
 		</div>
 
 		<div class="menu">
